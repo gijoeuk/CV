@@ -16,9 +16,16 @@ For the last 10 years I have been leading business development meetings in front
 
 The ones that really mean something to me: 
 
-My wife, my home, my friends and my silly little life
+-My wife
+
+-My home
+
+-My friends
+
+-My silly little life
 
 The other stuff: 
+
 -Always been a top seller and made a heap of money for anyone who has ever employed me.
 
 -Finished last role at Moore Stephens achieving 115% of target - £460k in fees. 2nd highest in the UK sales team
@@ -61,10 +68,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Moore Stephens LLP** March 2013 - August 2017    
 Research & Development tax - Senior Business Development
+
 **Leyton UK Partners LLP** March 2012 - March 2013   
 Research & Development tax - Business Development
+
 **Monadelphous Engineering** November 2010 - December 2011   
 Contracts Support Office - Finance. Spent a year in a portakabin in the Australian desert during the LNG boom to save the deposit for a house. 
+
 **Emmeti UK Limited** June 2008 - November 2010   
 Area Sales Manager - First job that didn't involve pulling pints or smashing plates. Persuaded a great boss to take a chance on me and repaid him with a load of new clients.
 
