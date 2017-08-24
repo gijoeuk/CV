@@ -1,15 +1,28 @@
-## Your Name
+## Joe Ingram
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Enthusiastic would-be developer looking to make a break from pinstripes and politics. After 10 years of financial services and sales I got to where I wanted, and married the girl I always hoped I would. Now looking to move away from big-corporate life and get back to what I loved as a kid; creating and problem solving.
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My whole career to date has been client-facing and consultative. Often taking complicated technical content and relaying it to non-technical clients in a clear, concise manner. I'm very comfortable in meetings and presentations and think quickly when put on the spot.
 
-- Experience
+- Experience 
+For the last 10 years I have been leading business development meetings in front of every type of client imaginable. From tiny one-man start-ups, to C-suite and board-level management of large corporates. I will always adapt to whoever I am dealing with.
+
 - Achievements
+The ones that really mean something to me: My wife, my home, my friends and my silly little life
+
+The other stuff: 
+-Always been a top seller and made a heap of money for anyone who has ever employed me.
+
+-Finished last role at Moore Stephens achieving 115% of target - £460k in fees. 2nd highest in the UK sales team
+
+-Left role at Leyton UK Partners LLP after one year having generated £250k in one year. No.1 seller.
+
+-Before that- selling undefloor heating and plumbing components in 2008, the year that everyone stopped building houses. Nonetheless took an inherited base of accounts worth £100k in sales, and turned it into £620k in 2.5 years
+
 - Evidence
 
 #### Another Skill
@@ -23,9 +36,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2017 to November 2017)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
+- I love getting back to having a puzzle, and having to solve it as part of a team. I'm learning from colleagues again, and      they are learning from me. 
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
@@ -34,17 +47,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bath 2004-2008 - probably the least interesting things about me
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- Modern Languages & European Studies 
+- (2.2)
+- Bath University snowboard race team 
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Moore Stephens LLP** March 2013 - August 2017    
+Research & Development tax - Senior Business Development
+**Leyton UK Partners LLP** January 2012 - March 2013   
+Research & Development tax - Business Development
+
