@@ -34,8 +34,6 @@ The other stuff:
 
 -Before that- selling undefloor heating and plumbing components in 2008, the year that everyone stopped building houses. Nonetheless took an inherited base of accounts worth £100k in sales, and turned it into £620k in 2.5 years
 
-- Evidence
-
 ## Education
 
 #### Makers Academy (August 2017 to November 2017)
