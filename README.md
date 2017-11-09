@@ -39,8 +39,8 @@ The other stuff:
 #### Makers Academy (August 2017 to November 2017)
 
 - I love getting back to having a puzzle, and having to solve it as part of a team. I'm learning from colleagues again, and      they are learning from me. 
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Fast, independent learner 
+- Great collaborator 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
