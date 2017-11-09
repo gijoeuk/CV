@@ -1,6 +1,6 @@
 ## Joe Ingram
 
-Enthusiastic would-be developer looking to make a break from pinstripes and politics. After 10 years of financial services and sales I got to where I wanted, and married the girl I always hoped I would. Now looking to move away from big-corporate life and get back to what I loved as a kid; creating and problem solving.
+Enthusiastic would-be developer looking to make a break from pinstripes and politics. After 10 years of financial services and sales I got to where I wanted. Now looking to move away from big-corporate life and get back to what I loved as a kid; creating and problem solving.
 
 ## Skills
 
@@ -35,15 +35,6 @@ The other stuff:
 -Before that- selling undefloor heating and plumbing components in 2008, the year that everyone stopped building houses. Nonetheless took an inherited base of accounts worth £100k in sales, and turned it into £620k in 2.5 years
 
 - Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
